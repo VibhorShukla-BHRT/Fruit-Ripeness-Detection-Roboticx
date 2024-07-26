@@ -1,1 +1,0 @@
-# Fruits-Ripening-Detection-Robotics
